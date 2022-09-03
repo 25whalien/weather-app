@@ -1,0 +1,75 @@
+div.app-card {
+  max-width: 650px;
+  padding: 20px;
+}
+
+div.today-card {
+  max-height: 160px;
+  max-width: 170px;
+  border: none;
+}
+
+div.date {
+  font-size: 40px;
+  padding-bottom: 8px;
+}
+
+div.hi-lo-today {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 32px;
+}
+
+div.forecast {
+  padding-top: 35px;
+  padding-bottom: 10px;
+}
+
+.sunny {
+  color: #ffd900;
+}
+
+.forecast-sunny {
+  font-size: 55px;
+  color: #ffd900;
+}
+
+.forecast-cloudy {
+  font-size: 55px;
+  color: #4861f2;
+}
+
+#today-icon {
+  font-size: 140px;
+}
+
+#city {
+  font-size: 38px;
+}
+
+#search-bar {
+  width: 45%;
+  padding: 5px;
+  margin-top: 20px;
+}
+
+#search-icon {
+  background-color: transparent;
+}
+
+#temp-unit {
+  text-decoration: none;
+  color: inherit;
+}
+
+#current-temp {
+  font-size: 38px;
+}
+
+#temp-unit:hover {
+  text-decoration: underline;
+}
+
+#current-temp:hover {
+  color: #43a2f3;
+}
