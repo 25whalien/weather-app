@@ -73,3 +73,7 @@ div.forecast {
 #current-temp:hover {
   color: #43a2f3;
 }
+
+#opensource-link {
+  text-decoration: none;
+}
